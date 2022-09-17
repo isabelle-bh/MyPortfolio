@@ -3,6 +3,7 @@
     background-color: #333;
     overflow: hidden;
     border-radius: 30px;
+    margin-top: 0;
 }
 
 /* Style the links inside the navigation bar */
@@ -58,6 +59,18 @@ body, html {
     color: white;
 }
 
+.hire-button {
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    position: relative;
+    text-align: center;
+    font-size: 14px;
+    background-color: #b44262;
+    color: white;
+  }
+
 .footer{
     position: fixed;
     left: 0;
@@ -67,6 +80,7 @@ body, html {
     color: white;
     text-align: center;
     font-family: Verdana;
+    font-size: 15px;
 }
 
 .about-section {
