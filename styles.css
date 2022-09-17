@@ -61,7 +61,7 @@ body, html {
 .hire-button {
     cursor: pointer;
     border: none;
-    border-radius: 8px;
+    border-radius: 0px;
     padding: 12px 24px;
     position: relative;
     text-align: center;
